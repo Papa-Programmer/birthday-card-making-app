@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Christmas_app</string>
+    <string name="enter_the_name" translatable="false">Enter The Name</string>
+    <string name="create_birthday_card" translatable="false">Create Christmas Card</string>
+    <string name="input_hint" translatable="false">name</string>
+</resources>
